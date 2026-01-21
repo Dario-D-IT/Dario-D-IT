@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
+
 **Dario-D-IT/Dario-D-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+- 🛠️ Currently working in **IT Support**.
+- 🎯 **Areas of Interest:** Network & System Administration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Learning
+- **Networking:** Documenting CCNA labs (Packet Tracer & GNS3).
+- **Windows System Administration:** Deploying Active Directory, DNS, and DHCP environments within virtual machines.
+- **Automation:** Exploring PowerShell scripts to automate daily IT tasks and workflows.
+- **Endpoint Management:** Gaining knowledge in SCCM/MECM architecture and software distribution.
+
+---
+📫 **Let's connect:** [LinkedIn Profile] (https://www.linkedin.com/in/dario-dukic-10165162/)
+
